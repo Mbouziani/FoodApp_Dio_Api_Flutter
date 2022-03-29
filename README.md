@@ -2,8 +2,7 @@
 # Fetch Data From [themealdb.com](https://www.themealdb.com/) Api Using Dio . [dio: ^4.0.4](https://pub.dev/packages/dio)
 
 A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout etc.
-<img src="https://user-images.githubusercontent.com/82768399/159137792-9cfcb19e-8055-4a8e-95b1-156bade1c45c.png" width="900" >
-
+<img src="https://user-images.githubusercontent.com/82768399/160614936-6c0079c1-2876-40b6-95d3-0aaa266c9ada.png" width="900" >
 ## Getting Started
 
 - ### Download this package as a library
@@ -22,13 +21,7 @@ A powerful Http client for Dart, which supports Interceptors, Global configurati
     ```
         import 'package:dio/dio.dart';
     ```
-- ### How to Use this Packege
- 
-    - After creating your models just use it like this :
-    
-    <img src="https://user-images.githubusercontent.com/82768399/160614936-6c0079c1-2876-40b6-95d3-0aaa266c9ada.png" width="900" >
-        
-    
+  
 - ### Preview
 <img src="https://user-images.githubusercontent.com/82768399/160606411-b7cd870d-67f7-4192-b603-508a9d929caf.jpeg" width="300" >    <img src="https://user-images.githubusercontent.com/82768399/160606428-913dd123-a194-42f2-8ccd-e15d5fb18f98.jpeg" width="300" ><img src="https://user-images.githubusercontent.com/82768399/160606443-02d19f17-eb2a-49be-a432-f28410d7bd4d.jpeg" width="300" >     <img src="https://user-images.githubusercontent.com/82768399/160606451-9206420a-e38c-4f60-996b-49203cb080cd.jpeg" width="300" >
 <img src="https://user-images.githubusercontent.com/82768399/160606460-e1c09951-cd23-46b1-a988-d1394517f6fd.jpeg" width="300" >
